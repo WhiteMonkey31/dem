@@ -1,10 +1,10 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"HELLO WORLD"<<endl;sbfhbsfbrsibi
+    cout<<"HELLO WORLD"<<endl;
     cout<<"hello"<<endl;
-    aocnsubs
-    s
+    int i;
+    cout<<"Enter Integer: ";
 
     return 0;
 }
